@@ -1,0 +1,4 @@
+"rafal.out":
+	path: "/home/gorczewski/Akademia/Zadanka/Bot/rafal.out"
+	args: ["<sampleinput"]
+	cwd: "/home/gorczewski/Akademia/Zadanka/Bot"
